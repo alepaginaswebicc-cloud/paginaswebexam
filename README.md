@@ -24,7 +24,7 @@
 </head>
 <body>
 
-    <img src="curpale.png" alt="Imagen CURPALE">
+    <img src="curpale.png" alt="Imagen "curpale.png">
 
 </body>
 </html>
